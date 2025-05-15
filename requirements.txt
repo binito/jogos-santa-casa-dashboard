@@ -1,0 +1,5 @@
+streamlit
+pandas
+SQLAlchemy
+psycopg2-binary   # ↳ troque se usar MySQL (p. ex. mysql-client)
+plotly
